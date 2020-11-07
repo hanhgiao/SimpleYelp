@@ -19,9 +19,9 @@ The following **extensions** are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: https://j.gifs.com/wVWwEJ.gif
 
-<img src='https://j.gifs.com/wVWwEJ.gif' title='Simple Yelp Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://j.gifs.com/wVWwEJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
